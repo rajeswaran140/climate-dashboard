@@ -68,6 +68,24 @@ Open [http://localhost:3000](http://localhost:3000) to view the dashboard.
 - GitHub: [@rajeswaran140](https://github.com/rajeswaran140)
 - LinkedIn: [/in/rajwaran](https://linkedin.com/in/rajwaran)
 
+## 🚀 NASA Support & Funding
+
+This project is **100% free and open source** with no revenue generation - built as a public service for climate education.
+
+**Interested in supporting this project?**
+- 📖 **[NASA Support Guide](./NASA_SUPPORT_GUIDE.md)** - Learn about NASA partnerships, grants, and funding opportunities
+- 💰 **Sponsorship** - GitHub Sponsors coming soon
+- 🤝 **Partnership** - Contact for university/NGO collaborations
+
+**Free Hosting:** Powered by Vercel (FREE forever)
+**Free Data:** NASA, NOAA, OpenWeatherMap APIs (all free)
+**Total Cost:** $0/month to run globally
+
+## 📚 Documentation
+
+- **[Development Guide](./DEVELOPMENT_GUIDE.md)** - Complete build and deployment guide
+- **[NASA Support Guide](./NASA_SUPPORT_GUIDE.md)** - Funding and partnership opportunities
+
 ## 📝 License
 
 This project is open source and available under the MIT License.
@@ -76,6 +94,24 @@ This project is open source and available under the MIT License.
 
 Contributions, issues, and feature requests are welcome!
 
+**Ways to contribute:**
+- 🐛 Report bugs and issues
+- 💡 Suggest new features
+- 📊 Add new data sources
+- 🎨 Improve UI/UX
+- 📖 Improve documentation
+- 🌍 Translate to other languages
+
+## 🌟 Project Goals
+
+- ✅ Make NASA climate data accessible to everyone
+- ✅ Raise awareness about climate change
+- ✅ Provide free educational resources
+- ✅ Build open-source community
+- ✅ Support climate research and education
+
 ---
 
-Built with ❤️ to raise awareness about climate change
+**Built with ❤️ for the global community**
+**Powered by NASA data 🚀**
+**Free forever 🌍**
